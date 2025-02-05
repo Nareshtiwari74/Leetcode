@@ -17,7 +17,7 @@ int A(TreeNode* node,int* dia){
     int left=max(0,A(node->left,dia));
     int right=max(0,A(node->right,dia));
     *dia=max(*dia,left+right+node->val);
-    node->left=node->right=NULL;
+    // node->left=node->right=NULL;
     return max(left,right)+node->val;
 }
     int maxPathSum(TreeNode* root) {
