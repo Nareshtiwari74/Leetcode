@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nareshtiwari74/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Nareshtiwari74/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1364-tuple-with-same-product](https://github.com/Nareshtiwari74/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nareshtiwari74/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Nareshtiwari74/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nareshtiwari74/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |
