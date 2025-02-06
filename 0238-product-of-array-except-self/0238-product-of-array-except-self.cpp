@@ -36,14 +36,20 @@ public:
         return ans;
     }
     else if (zecount == 1) {
-        ans[zcindex] = mul;
-        return ans;
+        for(int i=0;i<n;i++){
+            if(i==zcindex){
+                ans[i]=mul;
+            }
+            else{
+                ans[i]=0;
+            }
+        }
     }
 
-    
+    else{
     for (int i = 0; i < n; i++) {
         ans[i] = mul / nums[i];
-    }
+    }}
 
     return ans;
 }
