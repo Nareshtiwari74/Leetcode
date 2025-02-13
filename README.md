@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nareshtiwari74/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Nareshtiwari74/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0740-delete-and-earn](https://github.com/Nareshtiwari74/Leetcode/tree/master/0740-delete-and-earn) |
 | [1364-tuple-with-same-product](https://github.com/Nareshtiwari74/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nareshtiwari74/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nareshtiwari74/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nareshtiwari74/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0740-delete-and-earn](https://github.com/Nareshtiwari74/Leetcode/tree/master/0740-delete-and-earn) |
 ## Tree
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0740-delete-and-earn](https://github.com/Nareshtiwari74/Leetcode/tree/master/0740-delete-and-earn) |
 | [1364-tuple-with-same-product](https://github.com/Nareshtiwari74/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Nareshtiwari74/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
