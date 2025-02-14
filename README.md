@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Nareshtiwari74/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nareshtiwari74/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nareshtiwari74/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0740-delete-and-earn](https://github.com/Nareshtiwari74/Leetcode/tree/master/0740-delete-and-earn) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nareshtiwari74/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nareshtiwari74/Leetcode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Nareshtiwari74/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
