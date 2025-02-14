@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nareshtiwari74/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0740-delete-and-earn](https://github.com/Nareshtiwari74/Leetcode/tree/master/0740-delete-and-earn) |
 | [1364-tuple-with-same-product](https://github.com/Nareshtiwari74/Leetcode/tree/master/1364-tuple-with-same-product) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nareshtiwari74/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nareshtiwari74/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -83,12 +84,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Nareshtiwari74/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nareshtiwari74/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Math
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nareshtiwari74/Leetcode/tree/master/0062-unique-paths) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nareshtiwari74/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nareshtiwari74/Leetcode/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nareshtiwari74/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Nareshtiwari74/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
