@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Nareshtiwari74/Leetcode/tree/master/0740-delete-and-earn) |
 | [1364-tuple-with-same-product](https://github.com/Nareshtiwari74/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nareshtiwari74/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nareshtiwari74/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nareshtiwari74/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Depth-First Search
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nareshtiwari74/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nareshtiwari74/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 <!---LeetCode Topics End-->
