@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nareshtiwari74/Leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Nareshtiwari74/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0740-delete-and-earn](https://github.com/Nareshtiwari74/Leetcode/tree/master/0740-delete-and-earn) |
+| [1073-number-of-enclaves](https://github.com/Nareshtiwari74/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1364-tuple-with-same-product](https://github.com/Nareshtiwari74/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Nareshtiwari74/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Nareshtiwari74/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nareshtiwari74/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nareshtiwari74/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nareshtiwari74/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Nareshtiwari74/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nareshtiwari74/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -30,17 +32,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Nareshtiwari74/Leetcode/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/Nareshtiwari74/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Nareshtiwari74/Leetcode/tree/master/0226-invert-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/Nareshtiwari74/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nareshtiwari74/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Nareshtiwari74/Leetcode/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/Nareshtiwari74/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nareshtiwari74/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Nareshtiwari74/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Nareshtiwari74/Leetcode/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/Nareshtiwari74/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Nareshtiwari74/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
